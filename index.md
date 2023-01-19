@@ -8,9 +8,9 @@ My GitHub page is http://github.com/alex3809.
 
 ### CPSC 120
 
-* Lab 3
+* Lab 12
 
-    In lab 3, part 3 was one of my favorites because I was able to use all the skills I had worked on previously to make a game. I was able to validate the arguments, the users input, and if they guessed correctly the secret number they won. And what made it more interesting is I was able to use if statements to see if the second user guessed higher or lower than the secret number, and then give them a hint and a second try.
+    Lab 12 was one of my favorites because I was able to use all the skills I had practiced using 2 files to complete my project. By using two files I was able to use the function file to define the functions in the main file to be easier to maintain. I was able to ractice creating and using 2D vectors, and using nested if loops in nested for loops, classes and other tools. Using these tools I was able to code an animated GIF image using three different colors in part 1. These tools also helped me accomplish to create an image with colored pixels, using many individual images in part 2. 
 
 * Lab 5
 
